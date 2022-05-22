@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently pursuing a masters in Computer science and looking for SWE graduate postions in the near future!
 
 - 📫 How to reach me **bryanagar1@gmail.com**
 

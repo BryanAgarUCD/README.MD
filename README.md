@@ -1,5 +1,3 @@
-# ReadME.MD
-
 <h1 align="center">Hi 👋, I'm Bryan Agar</h1>
 <h3 align="center">CS Masters Student at UCD, Ireland.</h3>
 
